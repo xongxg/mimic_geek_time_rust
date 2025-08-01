@@ -1,0 +1,10 @@
+/Users/xongxg/works/rust/mimic_geek_time_rust/_04_httpie/target/debug/deps/os_str_bytes-6176701b12d83d5a.d: /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/lib.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/common/mod.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/common/raw.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/iter.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/pattern.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/raw_str.rs
+
+/Users/xongxg/works/rust/mimic_geek_time_rust/_04_httpie/target/debug/deps/libos_str_bytes-6176701b12d83d5a.rmeta: /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/lib.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/common/mod.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/common/raw.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/iter.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/pattern.rs /Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/raw_str.rs
+
+/Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/lib.rs:
+/Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/common/mod.rs:
+/Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/common/raw.rs:
+/Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/iter.rs:
+/Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/pattern.rs:
+/Users/xongxg/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/os_str_bytes-6.6.1/src/raw_str.rs:
