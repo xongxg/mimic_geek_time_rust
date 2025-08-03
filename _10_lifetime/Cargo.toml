@@ -1,0 +1,27 @@
+[package]
+name = "_10_lifetime"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "lifetime"
+path = "src/lifetime.rs"
+
+[[bin]]
+name = "lifetime2"
+path = "src/lifetime2.rs"
+
+[[bin]]
+name = "lifetime3"
+path = "src/lifetime3.rs"
+
+[[bin]]
+name = "strtok"
+path = "src/strtok.rs"
+
+[[bin]]
+name = "lifetime_no_lexical"
+path = "src/lifetime_no_lexical.rs"

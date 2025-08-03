@@ -1,0 +1,19 @@
+[package]
+name = "_08_borrow"
+version = "0.1.0"
+edition = "2024"
+
+
+[[bin]]
+name = "ownership_reference"
+path = "src/ownership_reference.rs"
+
+[[bin]]
+name = "borrow"
+path = "src/borrow.rs"
+
+[[bin]]
+path = "src/manual_drop.rs"
+name = "manual_drop"
+
+[dependencies]

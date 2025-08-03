@@ -5,8 +5,19 @@
       <sourceFolder url="file://$MODULE_DIR$/_04_httpie/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_04_httpie/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_05_thumbor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_06_queryer/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_06_queryer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_07_ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_08_borrow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_09_multi_owner/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_10_lifetime/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/_04_httpie/target" />
       <excludeFolder url="file://$MODULE_DIR$/_05_thumbor/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_06_queryer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_07_ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_08_borrow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_09_multi_owner/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_10_lifetime/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

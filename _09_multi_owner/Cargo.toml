@@ -1,0 +1,16 @@
+[package]
+name = "_09_multi_owner"
+version = "0.1.0"
+edition = "2024"
+
+
+
+[[bin]]
+name = "dag"
+path = "src/dag.rs"
+
+[[bin]]
+name = "dag_mut"
+path = "src/dag_mut.rs"
+
+[dependencies]
