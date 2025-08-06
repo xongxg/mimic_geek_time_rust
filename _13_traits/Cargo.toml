@@ -1,0 +1,52 @@
+[package]
+name = "_13_traits"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1.11.1"
+
+
+[[bin]]
+name = "animal"
+path = "src/animal.rs"
+
+[[bin]]
+name = "write"
+path = "src/write.rs"
+
+[[bin]]
+name = "parse"
+path = "src/parse.rs"
+
+[[bin]]
+name = "parse1"
+path = "src/parse1.rs"
+
+[[bin]]
+name = "parse2"
+path = "src/parse2.rs"
+
+[[bin]]
+name = "complex"
+path = "src/complex.rs"
+
+[[bin]]
+name = "formatter"
+path = "src/formatter.rs"
+
+[[bin]]
+name = "dd"
+path = "src/dd.rs"
+
+[[bin]]
+name = "trait_object"
+path = "src/trait_object.rs"
+
+[[bin]]
+name = "iterator"
+path = "src/iterator.rs"
+
+[[bin]]
+name = "trait_object_internal"
+path = "src/trait_object_internal.rs"
