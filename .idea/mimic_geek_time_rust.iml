@@ -15,6 +15,8 @@
       <sourceFolder url="file://$MODULE_DIR$/_11_memory/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_12_type_system/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_13_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_14_sys_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_15_smart_pointers/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/_04_httpie/target" />
       <excludeFolder url="file://$MODULE_DIR$/_05_thumbor/target" />
       <excludeFolder url="file://$MODULE_DIR$/_06_queryer/target" />
@@ -25,6 +27,8 @@
       <excludeFolder url="file://$MODULE_DIR$/_11_memory/target" />
       <excludeFolder url="file://$MODULE_DIR$/_12_type_system/target" />
       <excludeFolder url="file://$MODULE_DIR$/_13_traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_14_sys_traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_15_smart_pointers/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

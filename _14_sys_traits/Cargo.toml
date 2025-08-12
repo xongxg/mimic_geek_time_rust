@@ -1,0 +1,31 @@
+[package]
+name = "_14_sys_traits"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "dev"
+path = "src/dev.rs"
+
+[[bin]]
+name = "copy_drop"
+path = "src/copy_drop.rs"
+
+[[bin]]
+name = "size"
+path = "src/size.rs"
+
+[[bin]]
+name = "send_sync"
+path = "src/send_sync.rs"
+
+[[bin]]
+name = "convert"
+path = "src/convert.rs"
+
+[[bin]]
+name = "deref"
+path = "src/deref.rs"
