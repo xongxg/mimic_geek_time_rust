@@ -1,0 +1,36 @@
+[package]
+name = "_19_closure"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+
+[[bin]]
+name = "fn_once1"
+path = "src/fn_once1.rs"
+
+[[bin]]
+name = "fn_once2"
+path = "src/fn_once2.rs"
+
+[[bin]]
+name = "fn_return"
+path = "src/fn_return.rs"
+
+[[bin]]
+name = "fn_mut"
+path = "src/fn_mut.rs"
+
+[[bin]]
+name = "callable"
+path = "src/callable.rs"
+
+[[bin]]
+name = "callable_result"
+path = "src/callable_result.rs"
+
+[[bin]]
+name = "mimic_closure"
+path = "src/mimic_closure.rs"

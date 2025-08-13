@@ -4,3 +4,12 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+
+
+[[bin]]
+name = "slice1"
+path = "src/slice1.rs"
+
+[[bin]]
+name = "slice2"
+path = "src/slice2.rs"
