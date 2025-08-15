@@ -32,11 +32,10 @@ impl CommandService for Hgetall {
     }
 }
 
-
 #[cfg(test)]
 mod tests {
-    use crate::{assert_res_error, assert_res_ok, dispatch, CommandRequest, Kvpair, MemTable};
     use super::*;
+    use crate::{CommandRequest, Kvpair, MemTable, assert_res_error, assert_res_ok, dispatch};
 
     #[test]
     fn hset_should_work() {

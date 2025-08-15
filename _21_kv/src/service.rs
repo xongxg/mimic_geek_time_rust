@@ -55,9 +55,9 @@ pub fn dispatch(cmd: CommandRequest, store: &impl Storage) -> CommandResponse {
 
 #[cfg(test)]
 mod tests {
-    use std::thread;
-    use crate::Value;
     use super::*;
+    use crate::Value;
+    use std::thread;
 
     #[test]
     fn service_should_works() {
