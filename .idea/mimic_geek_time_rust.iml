@@ -21,6 +21,10 @@
       <sourceFolder url="file://$MODULE_DIR$/_19_closure/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_21_kv/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_21_kv/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_23_advanced_generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_24_advanced_trait_objects/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_26_kv/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_26_kv/examples" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/_04_httpie/target" />
       <excludeFolder url="file://$MODULE_DIR$/_05_thumbor/target" />
       <excludeFolder url="file://$MODULE_DIR$/_06_queryer/target" />
@@ -36,6 +40,9 @@
       <excludeFolder url="file://$MODULE_DIR$/_16_data_structure/target" />
       <excludeFolder url="file://$MODULE_DIR$/_19_closure/target" />
       <excludeFolder url="file://$MODULE_DIR$/_21_kv/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_23_advanced_generics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_24_advanced_trait_objects/target" />
+      <excludeFolder url="file://$MODULE_DIR$/_26_kv/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

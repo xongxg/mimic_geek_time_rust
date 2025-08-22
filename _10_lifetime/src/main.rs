@@ -1,6 +1,6 @@
-// mod lifetime;
-// mod lifetime2;
-// mod lifetime3;
+// pb lifetime;
+// pb lifetime2;
+// pb lifetime3;
 
 fn main() {
     println!("Hello, world!");
