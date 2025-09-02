@@ -1,4 +1,5 @@
 mod frame;
+pub(crate) mod tls;
 
 use crate::{CommandRequest, CommandResponse, KvError, Service};
 use bytes::BytesMut;

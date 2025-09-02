@@ -1,4 +1,4 @@
-use _36_kv::{CommandRequest, ProstClientStream};
+use _36_kv::{CommandRequest, ProstClientStream, TlsClientConnector};
 use anyhow::Result;
 use tokio::net::TcpStream;
 use tracing::info;
@@ -8,8 +8,17 @@ async fn main() -> Result<()> {
     tracing_subscriber::fmt::init();
 
     let addr = "127.0.0.1:9527";
+    // 以后用配置替换
+    let ca_cert = include_str!("../fixtures/ca.cert");
     // 连接服务器
+    let connector = TlsClientConnector::new("kvserver.acme.inc", None, Some(ca_cert))?;
     let stream = TcpStream::connect(addr).await?;
+    let stream = connector.connect(stream).await?;
+
+
+    // // 连接服务器
+    // let stream = TcpStream::connect(addr).await?;
+
 
     let mut client = ProstClientStream::new(stream);
 
